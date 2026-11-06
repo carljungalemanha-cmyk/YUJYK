@@ -125,9 +125,7 @@ export const SITE = {
     { src: '/img/g3.svg', legenda: 'Tratamento preventivo de linhas com toxina botulínica' },
     { src: '/img/g4.svg', legenda: 'Suavização profunda de olheiras e iluminação do olhar' },
     { src: '/img/g5.svg', legenda: 'Planejamento Full Face: harmonia e rejuvenescimento integrado' },
-    { src: '/img/g6.svg', legenda: 'Harmonização de perfil respeitando traços anatômicos' },
-    { src: '/img/g7.svg', legenda: 'Efeito gloss labial e definição do arco do cupido' },
-    { src: '/img/g8.svg', legenda: 'Equilíbrio e proporção áurea facial individualizada' }
+    { src: '/img/g6.svg', legenda: 'Harmonização de perfil respeitando traços anatômicos' }
   ],
   sobre: {
     titulo: 'Sua beleza é <span class="hero-gold-script">única.</span> O cuidado também.',
